@@ -1,0 +1,3 @@
+rootProject.name = 'parsing_files_grdl'
+include 'module1'
+
